@@ -1,0 +1,20 @@
+﻿paper,fig,found,crop_ok,peaks_ok,phase_ok,accurate,note
+oxide-tio2,Fig 3,yes,yes,no,yes,no,P25 missing; boxy traces
+alloy-hea,Fig 1a+b,yes,yes,no,yes,no,phase no longer reports Y2O3; traces still boxy
+ldh-mgga,Fig 1,yes,yes,no,yes,no,boxy/incomplete
+ldh-mgga,Fig 3,yes,yes,no,yes,no,16 traces mostly incomplete
+ldh-mgga,Fig 4,yes,yes,no,yes,no,calib residual 11.7 deg
+ldh-mgga,Fig 5,yes,yes,no,yes,no,Si ticks traced
+ldh-mgga,Fig 6a+b,yes,yes,no,partial,no,split crops; not all-zero; phase missed MgGa oxide
+ldh-mgga,Fig 7,yes,yes,no,yes,no,experimental nearly only two peaks
+ldh-mgga,Fig 8,yes,yes,no,yes,no,curve 1 almost only 003
+ldh-mgga,Fig 9a,yes,yes,no,yes,no,no longer Mg-Al
+ldh-mgga,Fig 9b,yes,yes,yes,yes,yes,new accurate
+mof-zif8-zif90,Fig 1,yes,yes,yes,yes,yes,ZIF-8 peaks on scale; ZIF-90 traces still incomplete
+zeolite-lta-zn,Fig 4A,yes,yes,no,yes,no,7.2 deg 200 recovered; 90 deg artifact remains
+battery-lifepo4,Fig 2a+b,yes,yes,no,yes,no,inset split; card sticks on LFP-N
+her-mos2,Fig 2a,yes,yes,yes,yes,yes,still accurate
+perovskite-lsco,Fig 1A,yes,yes,no,yes,no,no La2O3; LCOS0 collapsed
+hematite-lipstick-co,Fig 3,yes,yes,yes,yes,yes,104 at 38.70 vs 38.72
+perovskite-bascmo,Fig 3a+b,yes,yes,yes,yes,yes,overlay on 30 deg tick; 70 deg spine spike in xy
+perovskite-bascmo,Fig 4c neutron d(A),rejected,n/a,n/a,n/a,n/a,FP fixed; not in N

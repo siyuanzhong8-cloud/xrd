@@ -1,0 +1,25 @@
+paper,fig,v9_crop,v10_crop,v11_crop,v12_crop,v9_peaks,v10_peaks,v11_peaks,v12_peaks,v9_phase,v10_phase,v11_phase,v12_phase,v9_accurate,v10_accurate,v11_accurate,v12_accurate,v12_notes
+dee-zn-batteries,Fig 4c,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,no,no,no,3 traces DEE/HEE/BE; DEE/BE still holed
+materials-15-07378,Fig 1 p5_01,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,no,no,no,6 traces; xy slightly past 90
+materials-15-07378,Fig 2 p5_02,yes,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,official first pass still missing 400C; xy 20.66-92.94 shifts 33 to ~33.9
+Co-nanorods,Fig 1 p4_01,yes,no,partial,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,no,no,6 named traces to ~107.7; 100-105 no longer cut; 103 still weak
+Co-nanorods,Fig 2 p4_02,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,no,no,no,2 traces; range still ~20-120
+Co-nanorods,Fig 7 p8_01,yes,yes,partial,partial,no,no,no,no,yes,yes,yes,yes,no,no,no,no,still ends ~97.8 vs printed 105
+oxide-tio2,Fig 3,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,no,no,no,5 traces incl real but gappy P25; axis 20-70
+alloy-hea,Fig 1a+b,yes,yes,yes,yes,no,no,no,no,partial,yes,yes,yes,no,no,no,no,4 traces still heavily holed
+ldh-mgga,Fig 1,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,no,no,no,6 traces still boxy/holed
+ldh-mgga,Fig 3,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,no,no,no,13 of 16 traces; axis 10-70; messy
+ldh-mgga,Fig 4,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,no,no,yes,yes,axis 10-70 held; 11.08 present; 12.5/14.7 boxy
+ldh-mgga,Fig 5,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,no,no,no,still incomplete
+ldh-mgga,Fig 6a+b,yes,yes,partial,yes,no,no,no,no,yes,partial,yes,yes,no,no,no,no,both 6a and 6b cropped; traces incomplete
+ldh-mgga,Fig 7,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,no,no,no,experimental still holed
+ldh-mgga,Fig 8,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,no,no,no,still truncated/holed
+ldh-mgga,Fig 9a,yes,yes,yes,yes,no,no,no,no,partial,yes,yes,yes,no,no,no,no,5 traces; still gappy
+ldh-mgga,Fig 9b,yes,yes,yes,yes,no,yes,yes,no,yes,yes,yes,yes,no,yes,yes,no,REGRESSION: experimental lost ~11 deg peak
+mof-zif8-zif90,Fig 1,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,ZIF-8 7.30/12.66/18.00 held; 6 traces (weak extra calc)
+zeolite-lta-zn,Fig 4A,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,no,no,no,4 traces; 7.20 almost lost; insets excluded
+battery-lifepo4,Fig 2a+b,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,no,no,no,2a/2b kept 10-70; olivine peaks ok; some remaining card-stick intensity on black LFP
+her-mos2,Fig 2a,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,14.20/32.64 held
+perovskite-lsco,Fig 1A,yes,yes,yes,yes,no,no,no,no,partial,yes,yes,yes,no,no,no,no,5 traces still boxy/holed
+hematite-lipstick-co,Fig 3,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,yes,no,no,104 at 38.70 held; 7.26 still 0; 10.8-11.2 sticks remain
+perovskite-bascmo,Fig 3a+b,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,audit correction: v11 xy also peaks ~30.5 with same +0.56 flag; 30.10 already near ymax in v12; range slightly short of 70

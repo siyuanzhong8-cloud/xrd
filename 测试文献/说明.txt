@@ -1,0 +1,4 @@
+这里是 10 篇 bench 开放获取 PDF，以及 dee-zn-batteries.pdf。
+另外两篇测试论文在 xrd_qwen/examples/papers/（Co-nanorods-10-00334.pdf、materials-15-07378.pdf）。
+篇名、DOI 和预期图号见上级目录「核验与进度/papers_manifest.json」。
+这些 PDF 仅供核验本工具，请遵守各期刊的使用条款。

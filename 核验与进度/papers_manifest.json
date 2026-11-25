@@ -1,0 +1,112 @@
+[
+  {
+    "id": "oxide-tio2",
+    "file": "oxide-tio2.pdf",
+    "short": "TiO2 nanofibers",
+    "title": "Optimized Nanostructured TiO2 Photocatalysts",
+    "url": "https://doi.org/10.3389/fmats.2016.00035",
+    "source": "Frontiers in Materials",
+    "category": "oxide; multi-curve",
+    "expect_xrd": "Fig 3 stacked XRD of P25 and TiO2 nanofibers at 450/500/600/700 °C; anatase and rutile",
+    "expect_phase": "anatase and/or rutile TiO2"
+  },
+  {
+    "id": "alloy-hea",
+    "file": "alloy-hea.pdf",
+    "short": "Al0.3CoCrFeMnNi HEA",
+    "title": "High-entropy alloy strengthened by in situ formation of entropy-stabilized nano-dispersoids",
+    "url": "https://doi.org/10.1038/s41598-018-32552-6",
+    "source": "Scientific Reports",
+    "category": "metal/alloy; multi-panel",
+    "expect_xrd": "Fig 1a-b XRD of Al0.3CoCrFeMnNi with/without Y2O3 after milling and after sintering; fcc peaks",
+    "expect_phase": "fcc high-entropy alloy (Al0.3CoCrFeMnNi); Y2O3 in one series"
+  },
+  {
+    "id": "ldh-mgga",
+    "file": "ldh-mgga.pdf",
+    "short": "MgGa LDH",
+    "title": "Structural Aspects of “Memory Effect” for MgGa LDHs: New Data Obtained by Simulation of XRD Patterns for 1D Disordered Crystals",
+    "url": "https://doi.org/10.3390/cryst12050629",
+    "source": "MDPI Crystals",
+    "category": "LDH; multi-curve; Rietveld/simulation",
+    "expect_xrd": "Figs 1, 3, 5, 7, 8 experimental and simulated XRD of MgGa-CO3 LDHs, in situ heating, oxides",
+    "expect_phase": "hydrotalcite/manasseite LDH (MgGa-CO3); mixed oxide after 550 °C; memory-effect hydroxide"
+  },
+  {
+    "id": "mof-zif8-zif90",
+    "file": "mof-zif8-zif90.pdf",
+    "short": "ZIF-8 / ZIF-90",
+    "title": "Evaluation of ZIF-8 and ZIF-90 as Heat Storage Materials by Using Water, Methanol and Ethanol as Working Fluids",
+    "url": "https://doi.org/10.3390/cryst11111422",
+    "source": "MDPI Crystals",
+    "category": "MOF (ZIF)",
+    "expect_xrd": "Fig 1 PXRD calculated, experimental and activated ZIF-8 and ZIF-90 (SOD)",
+    "expect_phase": "ZIF-8 and ZIF-90 sodalite (SOD) structures"
+  },
+  {
+    "id": "zeolite-lta-zn",
+    "file": "zeolite-lta-zn.pdf",
+    "short": "Zn-modified LTA zeolite",
+    "title": "Selective sonochemical post-synthesis modification of LTA zeolite with zinc species",
+    "url": "https://doi.org/10.1371/journal.pone.0324997",
+    "source": "PLOS ONE",
+    "category": "zeolite; Rietveld",
+    "expect_xrd": "Fig 4 Rietveld XRD of NaA zeolite modified with Zn(OH)2, ZnO, ZnO2",
+    "expect_phase": "LTA / NaA zeolite; ZnO, ZnO2, or Zn(OH)2 as modifiers"
+  },
+  {
+    "id": "battery-lifepo4",
+    "file": "battery-lifepo4.pdf",
+    "short": "LiFePO4/N-doped C",
+    "title": "One-Pot Synthesis of LiFePO4/N-Doped C Composite Cathodes for Li-ion Batteries",
+    "url": "https://doi.org/10.3390/ma15144738",
+    "source": "MDPI Materials",
+    "category": "battery; multi-curve",
+    "expect_xrd": "Fig 2a XRD of LFP, LFP-N, LFP/C, LFP/C-N",
+    "expect_phase": "olivine LiFePO4 (possibly minor impurities)"
+  },
+  {
+    "id": "her-mos2",
+    "file": "her-mos2.pdf",
+    "short": "MoS2/rGO HER",
+    "title": "MoS2 nanosheets direct supported on reduced graphene oxide: An advanced electrocatalyst for hydrogen evolution reaction",
+    "url": "https://doi.org/10.1371/journal.pone.0177258",
+    "source": "PLOS ONE",
+    "category": "electrocatalyst",
+    "expect_xrd": "Fig 2A XRD of MoS2 NSs/rGO; peaks at 14.2, 33.0, 39.7, 59.1° plus weak graphene ~24.5°",
+    "expect_phase": "MoS2; reduced graphene oxide"
+  },
+  {
+    "id": "perovskite-lsco",
+    "file": "perovskite-lsco.pdf",
+    "short": "La1-xSrxCoO3",
+    "title": "Molten Salt Synthesized Submicron Perovskite La1–xSrxCoO3 Particles as Efficient Electrocatalyst for Water Electrolysis",
+    "url": "https://doi.org/10.3389/fmats.2020.00259",
+    "source": "Frontiers in Materials",
+    "category": "perovskite; electrocatalyst; multi-curve",
+    "expect_xrd": "Fig 1A powder XRD of LSCO 0/5/10/20/30% Sr plus JCPDS 251060",
+    "expect_phase": "LaCoO3 / Sr-doped lanthanum cobaltite perovskite"
+  },
+  {
+    "id": "hematite-lipstick-co",
+    "file": "hematite-lipstick-co.pdf",
+    "short": "Bronze Age lip-paint (Co Kα)",
+    "title": "A Bronze Age lip-paint from southeastern Iran",
+    "url": "https://doi.org/10.1038/s41598-024-52490-w",
+    "source": "Scientific Reports",
+    "category": "oxide/mineral; Co-target",
+    "expect_xrd": "Fig 3 XRD spectrum (Co tube): hematite dominant, plus quartz, galena, clinochlore, braunite, manganite, anglesite, brochantite, weddellite",
+    "expect_phase": "hematite (Fe2O3) as main phase; other accessory minerals"
+  },
+  {
+    "id": "perovskite-bascmo",
+    "file": "perovskite-bascmo.pdf",
+    "short": "BaSc0.8Mo0.2O2.8",
+    "title": "High proton conductivity within the ‘Norby gap’ by stabilizing a perovskite with disordered intrinsic oxygen vacancies",
+    "url": "https://doi.org/10.1038/s41467-023-43122-4",
+    "source": "Nature Communications",
+    "category": "perovskite; Rietveld mentioned",
+    "expect_xrd": "Fig 3 XRD of BSM20 before/after CO2 anneal; more patterns may be in SI",
+    "expect_phase": "cubic perovskite BaSc0.8Mo0.2O2.8 (BSM20)"
+  }
+]

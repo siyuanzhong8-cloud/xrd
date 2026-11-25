@@ -1,0 +1,26 @@
+paper,fig,v9_crop,v10_crop,v11_crop,v9_peaks,v10_peaks,v11_peaks,v9_phase,v10_phase,v11_phase,v9_accurate,v10_accurate,v11_accurate,v11_notes
+dee-zn-batteries,Fig 4c,yes,yes,yes,no,no,no,yes,yes,yes,no,no,no,3 traces; boxy DEE; BE low-angle sticks
+materials-15-07378,Fig 1 p5_01,yes,yes,yes,no,no,no,yes,yes,yes,no,no,no,20-90 ok; 88 deg edge spikes on 1K/3K
+materials-15-07378,Fig 2 p5_02,yes,no,yes,yes,no,no,yes,yes,yes,yes,no,no,axis 20-90 fixed; xy missing 400C
+Co-nanorods,Fig 1 p4_01,yes,no,partial,yes,no,no,yes,yes,yes,yes,no,no,no longer all-zero; crop cuts 103 peak
+Co-nanorods,Fig 2 p4_02,yes,yes,yes,no,no,no,yes,yes,yes,no,no,no,1 trace; ticks to 119; published Rietveld skipped in fit
+Co-nanorods,Fig 7 p8_01,yes,yes,partial,no,no,no,yes,yes,yes,no,no,no,crop cuts 103
+oxide-tio2,Fig 3,yes,yes,yes,no,no,no,yes,yes,yes,no,no,no,P25 present (5 traces) but still boxy
+alloy-hea,Fig 1a+b,yes,yes,yes,no,no,no,partial,yes,yes,no,no,no,one collapsed curve; boxy post-sinter 0pct
+ldh-mgga,Fig 1,yes,yes,yes,no,no,no,yes,yes,yes,no,no,no,only panel b (v10 only panel a)
+ldh-mgga,Fig 3,yes,yes,yes,no,no,no,yes,yes,yes,no,no,no,14 traces still incomplete
+ldh-mgga,Fig 4,yes,yes,yes,no,no,yes,yes,yes,yes,no,no,yes,axis 10-70 fixed; residual 0
+ldh-mgga,Fig 5,yes,yes,yes,no,no,no,yes,yes,yes,no,no,no,Si/card sticks remain
+ldh-mgga,Fig 6a+b,yes,yes,no,no,no,no,yes,partial,yes,no,no,no,only 6a cropped; phase now names MgGa oxide
+ldh-mgga,Fig 7,yes,yes,yes,no,no,no,yes,yes,yes,no,no,no,simulation still boxy
+ldh-mgga,Fig 8,yes,yes,yes,no,no,no,yes,yes,yes,no,no,no,incomplete traces
+ldh-mgga,Fig 9a,yes,yes,yes,no,no,no,partial,yes,yes,no,no,no,gaps remain
+ldh-mgga,Fig 9b,yes,yes,yes,no,yes,yes,yes,yes,yes,no,yes,yes,still accurate
+mof-zif8-zif90,Fig 1,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,5 traces; ZIF-8 peaks within 0.3
+zeolite-lta-zn,Fig 4A,yes,yes,yes,no,no,no,yes,yes,yes,no,no,no,7.20 200 kept; inset excluded; traces messy
+battery-lifepo4,Fig 2a+b,no,yes,yes,no,no,no,yes,yes,yes,no,no,no,2b excluded; LFP-N card sticks
+her-mos2,Fig 2a,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,peaks match paper
+perovskite-lsco,Fig 1A,yes,yes,yes,no,no,no,partial,yes,yes,no,no,no,boxy traces; LCOS0 weak
+hematite-lipstick-co,Fig 3,yes,yes,yes,no,yes,no,yes,yes,yes,no,yes,no,lost 7.26 chlorite; 10-13 card sticks; 104 still 38.70
+perovskite-bascmo,Fig 3a+b,yes,yes,yes,no,yes,yes,yes,yes,yes,no,yes,yes,main peak 30.02; no 70 spike on overlay
+perovskite-bascmo,Fig 4c neutron (not in N),yes,rejected,rejected,,,,,n/a,n/a,n/a,FP,FP0,FP0,still rejected as not 2theta
